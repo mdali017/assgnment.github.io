@@ -99,3 +99,110 @@ nav a {
     left: 862px;
     top: 1416px;
 }
+/*------------------------------ Style My Plan Section-----------------*/
+.my-plan {
+    position: absolute;
+    width: 1141px;
+    height: 299.96px;
+    left: 230px;
+    top: 1792.3px;
+
+}
+
+.my-plan-head {
+    position: absolute;
+    width: 179px;
+    left: 550px;
+    top: 70px;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.items {
+    display: flex;
+    margin-top: 150px;
+    justify-content: space-between;
+    top: 1889px;
+}
+/*----------------------Style Extra-section-------------------------*/
+.extra-section {
+    position: absolute;
+    width: 1141px;
+    height: 320px;
+    left: 230px;
+    top: 1792.3px;
+    background-color: #0cbdbd;
+    display: flex;
+    justify-content: center;
+}
+
+.extra-section-title {
+    font-weight: 700;
+    font-size: 45px;
+    background-color: #0cbdbd;
+    margin-bottom: 10px;
+    margin-left: 80px;
+    margin-top: 40px;
+}
+
+.extra-section-description {
+    margin-left: 70px;
+    margin-bottom: 10px;
+}
+
+.extra-section-image {
+    position: absolute;
+    width: 456px;
+    height: 360px;
+    left: 732px;
+    top: 2078px;
+}
+
+.extra-section-btn {
+    position: absolute;
+    width: 160px;
+    height: 64px;
+    background: #ffffff;
+    border-radius: 5px;
+    border: none;
+    color: #030302;
+    margin-top: 20px;
+    margin-left: 70px;
+    margin-bottom: 20px;
+}
+/*------------------------------Style Call Now Section-----------------------------------*/
+.call-now-section {
+    background-image: url('/images/watch.png'), url('/images/gradient1.png');
+    position: absolute;
+    width: 1140px;
+    height: 300px;
+    left: 230px;
+    top: 2222.26px;
+    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
+}
+
+.call-now-section-title {
+    position: absolute;
+    width: 459px;
+    height: 94px;
+    left: 64px;
+    font-weight: 700;
+    font-size: 40px;
+    margin-top: 60px;
+    margin-right: 64px;
+    color: #FFFFFF;
+
+}
+
+.banner-btn1 {
+
+    position: absolute;
+    width: 160px;
+    height: 64px;
+    left: 60px;
+    top: 178px;
+    background: #ffffff;
+    border-radius: 5px;
+    border: none;
+    color: #F15B22;
+}

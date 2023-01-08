@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+}
+
+.nav-title {
+    font-weight: 800;
+    font-size: 45px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 200px;
+}
+
+nav ul {
+    display: flex;
+}
+
+nav li {
+    list-style: none;
+    margin-right: 15px;
+
+}
+
+nav a {
+    text-decoration: none;
+}
+/* Banner Style */
+.banner-items {
+    position: absolute;
+
+}
+
+
+.banner-title {
+    font-weight: 700;
+    font-size: 65px;
+    margin: 218px 30px 464px 845px;
+
+}
+
+.banner-description {
+    position: absolute;
+    left: 855px;
+    top: 468px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+
+}
+
+.banner-btn {
+    position: absolute;
+    width: 160px;
+    height: 64px;
+    left: 860px;
+    top: 578px;
+    background: #F15B22;
+    border-radius: 5px;
+    border: none;
+
+}

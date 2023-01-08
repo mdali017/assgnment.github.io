@@ -68,8 +68,8 @@ nav a {
 
 .section-two-image {
     position: absolute;
-    left: 206px;
-    top: 939px;
+    margin-left: 206px;
+    margin-top: 939px;
 }
 
 .section-two-title {

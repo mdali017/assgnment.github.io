@@ -206,3 +206,87 @@ nav a {
     border: none;
     color: #F15B22;
 }
+/* Footer section */
+footer {
+    position: absolute;
+    width: 1600px;
+    height: 577px;
+    left: 220px;
+    right: 520px;
+    top: 2652.26px;
+    background: #151414;
+
+}
+
+.footer-left {
+    width: 485px;
+    height: 317px;
+    top: 2782.26px;
+
+}
+
+.footer-left-title {
+    position: absolute;
+    font-weight: 700;
+    font-size: 45px;
+    left: 230px;
+    margin-top: 120px;
+    color: rgb(255, 255, 255);
+}
+
+.footer-left-description {
+    position: absolute;
+    width: 485px;
+    height: 780px;
+    left: 230px;
+    font-weight: 400;
+    font-size: 16px;
+    color: white;
+    margin-top: 180px;
+}
+
+.footer-list {
+    position: absolute;
+    width: 184px;
+    height: 26px;
+    left: 230px;
+    top: 253.26px;
+    color: white;
+}
+
+/* footer-right-section */
+.footer-right {
+    position: absolute;
+    width: 325px;
+    height: 204px;
+    left: 1046px;
+    top: 112.26px;
+}
+
+.footer-right-title {
+    position: absolute;
+    font-weight: 600;
+    font-size: 25px;
+    padding-bottom: 120px;
+    color: white;
+
+
+}
+
+.footer-right-form {
+    position: absolute;
+    width: auto;
+    height: 14px;
+}
+
+.footer-right-btn {
+    position: absolute;
+    width: 120px;
+    height: 44px;
+    left: 10px;
+    top: 78px;
+    background: #ffffff;
+    border-radius: 5px;
+    border: none;
+    color: #F15B22;
+}

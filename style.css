@@ -61,3 +61,41 @@ nav a {
     border: none;
 
 }
+/*------------------Style Section two-----------------*/
+.section-two {
+    display: flex;
+}
+
+.section-two-image {
+    position: absolute;
+    left: 206px;
+    top: 939px;
+}
+
+.section-two-title {
+    position: absolute;
+    width: 288px;
+    left: 862px;
+    top: 1178px;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+ .section-two-description{
+    position: absolute;
+    width: 416px;
+    height: 104px;
+    font-weight: 400;
+    font-size: 16px;
+     left: 362px;
+    top: 1296px; 
+    margin-left: 500px;
+} 
+
+.list {
+    position: absolute;
+    width: 349px;
+    height: 162px;
+    left: 862px;
+    top: 1416px;
+}
